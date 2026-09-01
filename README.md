@@ -7,5 +7,5 @@ Each notebook runs in Google colab and can be opened by clicking on the Colab pa
 
 ## Contents of this repository
 |File|corresponding session|notebook|
-|...|...|...|
-|tes.ipynb|01|getting to know google colab and testing github|
+|---|---|---|
+|test.ipynb|01|getting to know google colab and testing github|
