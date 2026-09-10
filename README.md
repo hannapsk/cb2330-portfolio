@@ -12,3 +12,4 @@ Each notebook runs in Google colab and can be opened by clicking on the Colab pa
 |session01_getting_started_tools_and_the_elements_of_a_program.ipynb|01|first exercise|
 |session01_try_more_formulas.ipynb|01|trying formulas for gaining more knowledge in coding|
 |session02_random_variables_and_probability.ipynb|02|second exercise|
+|session03_distribution_and_moements.ipynb|03|third exercise|
