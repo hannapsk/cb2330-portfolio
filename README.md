@@ -13,3 +13,5 @@ Each notebook runs in Google colab and can be opened by clicking on the Colab pa
 |session01_try_more_formulas.ipynb|01|trying formulas for gaining more knowledge in coding|
 |session02_random_variables_and_probability.ipynb|02|second exercise|
 |session03_distribution_and_moements.ipynb|03|third exercise|
+|session04_generative_models_and_monte_carlo.ipynb|04|fourth exercise|
+|session05_parameter_estimation_and_maximum_likelihood.ipynb|05|fifth exercise|
