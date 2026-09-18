@@ -15,3 +15,4 @@ Each notebook runs in Google colab and can be opened by clicking on the Colab pa
 |session03_distribution_and_moements.ipynb|03|third exercise|
 |session04_generative_models_and_monte_carlo.ipynb|04|fourth exercise|
 |session05_parameter_estimation_and_maximum_likelihood.ipynb|05|fifth exercise|
+|session06_optimisation_and_gradient_descent.ipynb|06|sixth exercise|
