@@ -18,3 +18,4 @@ Each notebook runs in Google colab and can be opened by clicking on the Colab pa
 |session06_optimisation_and_gradient_descent.ipynb|06|sixth exercise|
 |session07_measurement_error_and_fitting_error.ipynb|07|seventh exercise|
 |session08_parameter_uncertainty_and_model_comparison.ipynb|08|eigth exercise|
+|session09_end_to_end_modelling.ipynb|09|ninth exercise|
